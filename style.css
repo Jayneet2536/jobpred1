@@ -1,0 +1,31 @@
+/* Base styles */
+.st-emotion-cache-1v0mbdj {
+    border-radius: 15px;
+}
+
+.stSelectbox, .stSlider {
+    margin-bottom: 1.5rem;
+}
+
+/* Custom card styles */
+.stContainer {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Progress bar */
+.stProgress > div > div {
+    background-color: #4287f5;
+}
+
+/* Metric cards */
+.stMetric {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
